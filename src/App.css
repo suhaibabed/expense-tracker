@@ -1,0 +1,80 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.filter-container {
+  margin-top: 10px;
+}
+
+.expense-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.expense-table th,
+.expense-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.expense-table th {
+  background-color: #f2f2f2;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.expense-form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.expense-form input,
+.expense-form select,
+.expense-form button {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+}
+
+.expense-list {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.expense-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.expense-list th,
+.expense-list td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.expense-list th {
+  background-color: #f2f2f2;
+}
+
+.expense-list button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
